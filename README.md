@@ -1,6 +1,8 @@
-# Daejung Kim's Github Pages
+Daejung Kim's Github Pages
+=======================================================
 
-- Emacs Notes
+Emacs Notes
+-------------------------------------------------------
 
-* https://daejungkim.github.io/emacs18-notes
-  forked from https://github.com/eamcs18/notes.git
+* <https://daejungkim.github.io/emacs18-notes>
+  forked from <https://github.com/eamcs18/notes.git>
